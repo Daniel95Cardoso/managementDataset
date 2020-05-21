@@ -38,6 +38,7 @@ namespace Loja
         {
             try 
             {
+                //Login
                 String useradmin = "admin";
                 String passadmin = "adminleveleve";
                 String uservisita = "visita";
